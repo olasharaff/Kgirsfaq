@@ -1,0 +1,18 @@
+@import url('https://fonts.cdnfonts.com/css/diagramm');
+@import "tailwindcss";
+
+
+
+body {
+  font-family: 'Diagramm', sans-serif;
+  background-color: #F9FAFB;
+}
+
+.navbar-header {
+  position: fixed;
+  z-index: 99999;
+  width: 100%;
+  top: 0;
+  filter: transparent(1rem);
+
+}
